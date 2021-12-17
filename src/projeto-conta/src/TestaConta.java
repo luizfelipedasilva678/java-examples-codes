@@ -1,4 +1,4 @@
-public class TestaConta {
+public class TestaEncapsulamento {
     public static void main(String[] args) {
         Conta conta1 = new Conta();
         conta1.titular = "Elton";
