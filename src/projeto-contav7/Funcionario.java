@@ -1,6 +1,6 @@
 public class Funcionario {
-    private String nome;
-    private double salario;
+    protected String nome;
+    protected double salario;
 
     public Funcionario() {}
 
