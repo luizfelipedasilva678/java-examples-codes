@@ -1,3 +1,4 @@
+package contas;
 public class PrimeiroPrograma {
 
 	//Ponto de entrada

@@ -1,3 +1,4 @@
+package contas;
 public class TestaCasting {
 	public static void main(String[] args) {
 		float numFloat = 5.78f;

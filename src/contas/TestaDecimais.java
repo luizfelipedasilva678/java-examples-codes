@@ -1,3 +1,4 @@
+package contas;
 public class TestaDecimais {
 	public static void main(String[] args) {
 		double numeroDecimal = 4.70;

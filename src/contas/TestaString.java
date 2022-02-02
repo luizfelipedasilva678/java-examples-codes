@@ -1,3 +1,4 @@
+package contas;
 public class TestaString {
 	public static void main(String[] args) {
 		char letra = 'A';
