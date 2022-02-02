@@ -18,5 +18,10 @@ public class Test {
         contabilizador.contabilizadorDeBonificacoes(juliana);
 
         System.out.println("Total " + contabilizador.getValorTotalEmBonificacoesNatalinas());
+        
+        if (elton instanceof  Autenticavel ) {
+            System.out.println("Hellooo");
+        }
+    
     }
 }
