@@ -15,7 +15,7 @@ public class App {
         System.out.println("Inicio metodo2");
         try {
             int x = 10/0;
-        } catch (NullPointerException | ArithmeticException e) {
+        } catch (Exception e) {
             System.out.println("Error " +  e.getMessage());
         }
         int[] array =  new int[5];
