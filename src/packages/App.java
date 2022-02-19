@@ -5,5 +5,6 @@ public class App {
         Cliente cliente = new Cliente("Joana");
 
         System.out.println("Nome: " + cliente.getNome());
+        System.out.println(cliente);
     }
 }
